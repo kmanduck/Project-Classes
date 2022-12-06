@@ -1,0 +1,100 @@
+C:\Users\Kman\PycharmProjects\pythonProject10\venv\Scripts\python.exe C:\Users\Kman\PycharmProjects\pythonProject10\main.py 
+Patient Menu
+ 0 - Return to Main Menu
+ 1 - Display patient's list
+ 2 - Search for patient by ID
+ 3 - Add patient
+ 4 - Edit patient info1
+ID:		 12
+Name:		 Pankaj
+Diagnosis:		 Leukemia
+Gender:		 Male
+Age:		 30
+
+
+ ID:		 13
+Name:		 Janina
+Diagnosis:		 Cold
+Gender:		 Female
+Age:		 23
+
+
+ ID:		 14
+Name:		 Alonna
+Diagnosis:		 Malaria
+Gender:		 Female
+Age:		 45
+
+
+ ID:		 15
+Name:		 Ravi
+Diagnosis:		 Diabetes
+Gender:		 Male
+Age:		 65
+
+
+
+Patient Menu
+ 0 - Return to Main Menu
+ 1 - Display patient's list
+ 2 - Search for patient by ID
+ 3 - Add patient
+ 4 - Edit patient info2
+Enter the Patient ID16
+Patient with ID 16 not in patient file
+Patient Menu
+ 0 - Return to Main Menu
+ 1 - Display patient's list
+ 2 - Search for patient by ID
+ 3 - Add patient
+ 4 - Edit patient info2
+Enter the Patient ID15
+ID:		 15
+Name:		 Ravi
+Diagnosis:		 Diabetes
+Gender:		 Male
+Age:		 65
+
+
+
+Patient Menu
+ 0 - Return to Main Menu
+ 1 - Display patient's list
+ 2 - Search for patient by ID
+ 3 - Add patient
+ 4 - Edit patient info3
+Enter Patient ID16
+Enter Patient NameMary
+Enter Patient DiagnosisCancer
+Enter Patient GenderFemale
+Enter Patient Age55
+
+Your new patient!:
+
+ID:		 16
+Name:		 Mary
+Diagnosis:		 Cancer
+Gender:		 Female
+Age:		 55
+
+
+
+Patient Menu
+ 0 - Return to Main Menu
+ 1 - Display patient's list
+ 2 - Search for patient by ID
+ 3 - Add patient
+ 4 - Edit patient info4
+Enter the Patient ID13
+Enter new Patient NameJanina
+Enter new Patient DiagnosisPneumonia
+Enter new Patient GenderFemale
+Enter new Patient Age23
+Patient Menu
+ 0 - Return to Main Menu
+ 1 - Display patient's list
+ 2 - Search for patient by ID
+ 3 - Add patient
+ 4 - Edit patient info0
+
+Process finished with exit code 0
